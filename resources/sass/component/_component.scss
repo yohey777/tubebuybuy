@@ -1,0 +1,17 @@
+.common {
+  .user-post {
+    &__list {
+      tr {
+        text-align: center;
+      }
+      th {
+        width:300px;
+        border: 1px solid black;
+      }
+      td {
+        width:300px;
+        border: 1px solid black;
+      }
+    }
+  }
+}
